@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotTfueee
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning swift and swiftui
+- 👀 I’m interested in app development & Web Development (Nodejs , react , mongodb, express)
+- 🌱 I’m currently learning swift and swiftui . Known Languages are JAVA , JAVASCRIPT , C , SWIFT 
 - 📫 Can Text Me on Linkedin https://www.linkedin.com/in/anurag-bhatt-9b285b23a
 
 
